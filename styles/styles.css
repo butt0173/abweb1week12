@@ -25,3 +25,13 @@ h3{
 p{
     font-family: "Nunito", sans-serif;
 }
+
+section iframe {
+    max-width: 100%;
+}
+
+.maps{
+    /* when u size an iframe, you have to do both width and height */
+    width: 50vw;
+    height:30vw;
+}
