@@ -1,0 +1,27 @@
+h1{
+    font-family: "Cinzel Decorative", serif;
+    font-size: 36px;
+}
+
+h3:hover{
+    font-weight: 900;
+    font-variation-settings: "wdth" 125;
+}
+
+h3{
+    font-family: "Sour Gummy", sans-serif;
+    font-size: 24px;
+
+    /* with varible fonts, you have such more flexability
+    with the style of your font */
+    font-weight: 100;
+
+    font-variation-settings: "wdth" 100;
+
+    /* this is for an animation */
+    transition: all 3s;
+}
+
+p{
+    font-family: "Nunito", sans-serif;
+}
